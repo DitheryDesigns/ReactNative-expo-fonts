@@ -91,7 +91,7 @@
     };
     ```
 
-    This configuration ensures that whenever something requires crypto, crypto-browserify is used instead.
+    This configuration ensures that whenever something requires crypto, crypto-browserify is used if crypto is not found in list of dependencies (A fallback).
 
 6. **Run Your Project**:
    Launch the web version of your project with:
