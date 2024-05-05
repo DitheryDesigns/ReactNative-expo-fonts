@@ -94,13 +94,12 @@
     This configuration ensures that whenever something requires crypto, crypto-browserify is used if crypto is not found in list of dependencies (A fallback).
 
 6. **Run Your Project**:
-   Launch the web version of your project with:
    ```bash
    npm run web
    ```
 
 7. **Check the Display**:
-   Your custom font should now be displayed correctly across your application.
+   Your custom font should now be displayed correctly across your application in Web/Android/iOS
 
 ---
 
